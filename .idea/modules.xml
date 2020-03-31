@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/T-Board.iml" filepath="$PROJECT_DIR$/T-Board.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tboard/tboard.iml" filepath="$PROJECT_DIR$/tboard/tboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="T-Board/app" />
+      <module fileurl="file://$PROJECT_DIR$/libraries-T-Board.iml" filepath="$PROJECT_DIR$/libraries-T-Board.iml" group="T-Board" />
+      <module fileurl="file://$PROJECT_DIR$/tboard/tboard.iml" filepath="$PROJECT_DIR$/tboard/tboard.iml" group="T-Board/tboard" />
     </modules>
   </component>
 </project>
